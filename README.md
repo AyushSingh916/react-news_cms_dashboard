@@ -2,7 +2,7 @@
 
 An admin dashboard allows at-a-glance access to the crucial information for the specific needs of a particular professional or a team. Dashboards provide users with a comprehensive overview of the key data, reports, KPIs, etc., and enable drilling down to more details if required.
 
-**_ Featuers: _**
+**_Features:_**
 
 - News Content Management System
 - User Authorization and management
@@ -12,12 +12,12 @@ An admin dashboard allows at-a-glance access to the crucial information for the 
 - CRUD functionality or management.
 - Dark & Light Mode
 
-Live URL: https://react-news-cms-dashboard.vercel.app/
+Live URL: [https://react-news-cms-dashboard.vercel.app/](https://react-news-cms-dashboard.vercel.app/)
 
 ==============
 
 Light Mode:
-![light1](https://user-images.githubusercontent.com/78463849/194511527-87b44371-f7ee-4378-a3c8-aacca5d97c0b.png)
+![light1](https://drive.google.com/uc?export=view&id=1-xSts3or74c0QO-AIQlzthboJMvO-v7s)
 
 Dark Mode:
-![dark1](https://user-images.githubusercontent.com/78463849/194511555-319272d1-fe56-4a04-9e91-e2080c30ad2b.png)
+![dark1](https://drive.google.com/uc?export=view&id=1-y7uvogDuNx1ELABs_6DRfvpUMl2s0UA)
