@@ -17,10 +17,7 @@ Live URL: https://react-news-cms-dashboard.vercel.app/
 ==============
 
 Light Mode:
-![light1]([https://user-images.githubusercontent.com/78463849/194511527-87b44371-f7ee-4378-a3c8-aacca5d97c0b.png](https://drive.google.com/file/d/1-xSts3or74c0QO-AIQlzthboJMvO-v7s/view?usp=sharing))
-
-
+![light1](https://user-images.githubusercontent.com/78463849/194511527-87b44371-f7ee-4378-a3c8-aacca5d97c0b.png)
 
 Dark Mode:
-![dark1]([https://user-images.githubusercontent.com/78463849/194511555-319272d1-fe56-4a04-9e91-e2080c30ad2b.png](https://drive.google.com/file/d/1-y7uvogDuNx1ELABs_6DRfvpUMl2s0UA/view?usp=sharing)https://drive.google.com/file/d/1-y7uvogDuNx1ELABs_6DRfvpUMl2s0UA/view?usp=sharing)
-
+![dark1](https://user-images.githubusercontent.com/78463849/194511555-319272d1-fe56-4a04-9e91-e2080c30ad2b.png)
