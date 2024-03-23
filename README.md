@@ -4,7 +4,7 @@ An admin dashboard allows at-a-glance access to the crucial information for the 
 
 **_ Featuers: _**
 
-- Content Management
+- News Content Management System
 - User Authorization and management
 - Client-side validation & Image Upload
 - Security and Permissions
@@ -12,7 +12,7 @@ An admin dashboard allows at-a-glance access to the crucial information for the 
 - CRUD functionality or management.
 - Dark & Light Mode
 
-Live URL: https://react-admin-dashboard-virid.vercel.app
+Live URL: https://react-news-cms-dashboard.vercel.app/
 
 ==============
 
